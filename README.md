@@ -7,7 +7,7 @@
 
 </h3>
 <br>
-<img align="right" alt="Coding" width="500" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tankchirag-1212&label=Profile%20views&color=0e75b6&style=flat" alt="tankchirag-1212" /> </p>
 
@@ -20,12 +20,12 @@
 - ⚡ Fun fact **I'm Lazzy Guy!!!**
 
 <h3 align="left">About me:</h3>
-  
-1. An enthusiastic fresher with self-motivated and reliable skills, pursuing third year of Bachelors of engineering degree in <br> Computer Engineering.<br>
+<p margin top="100">
+1. An enthusiastic fresher with self-motivated and reliable skills, pursuing third year of Bachelors of engineering degree in Computer Engineering.<br>
 2. Eager to learn new technologies and develop new skills.<br>
 3. Skill of Understanding the Algorithms.<br>
 4. I can work as both individual as well as in group.
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chirag-tank-b17025202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-tank-b17025202" height="30" width="40" /></a>

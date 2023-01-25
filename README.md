@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/TankChirag-1212/TankChirag-1212/blob/main/ezgif-2-87a211fc9d.gif" width="1484" height="320">
+<img align="center" src="https://github.com/TankChirag-1212/TankChirag-1212/blob/main/github banner.gif" width="1484" height="320">
 
 <h3 align="center">
     

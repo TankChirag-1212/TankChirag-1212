@@ -1,6 +1,5 @@
 <img align="center" src="https://github.com/TankChirag-1212/TankChirag-1212/blob/main/ezgif-2-87a211fc9d.gif" width="1484" height="320">
 
-<h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238408AC&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student)](https://git.io/typing-svg)

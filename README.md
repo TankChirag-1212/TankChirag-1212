@@ -12,16 +12,16 @@
 
 <p align="left"></p>
 
-- 🌱 I’m currently learning **Back-end Developing**
+- 🌱 I’m currently learning **DevOps Trainee**
 
-- 📫 How to reach me **tankchirag17@gmail.com**
+- 📫 How to reach me **work.tankchirag@gmail.com**
 
-- ⚡ Fun fact **I'm Lazzy Guy!!!**
+- ⚡ Fun fact **I'm OnePiece Fan!!!**
 
 <h3 align="left">About me:</h3>
 <p margin top="100">
-1. An enthusiastic fresher with self-motivated and reliable skills, pursuing third year of Bachelors of engineering degree in Computer Engineering.<br>
-2. Eager to learn new technologies and develop new skills.<br>
+1. An enthusiastic fresher with self-motivated and reliable skills, completed Bachelors of engineering degree in Computer Engineering.<br>
+2. Always ready to learn new technologies and develop new skills.<br>
 3. Skill of Understanding the Algorithms.<br>
 4. I can work as both individual as well as in group.
 </p>

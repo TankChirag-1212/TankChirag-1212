@@ -12,7 +12,7 @@
 
 <p align="left"></p>
 
-- 🌱 I’m currently learning **DevOps Trainee**
+- 🌱 I’m currently a **DevOps Trainee**
 
 - 📫 How to reach me **work.tankchirag@gmail.com**
 
